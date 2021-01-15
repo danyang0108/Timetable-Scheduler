@@ -1,0 +1,27 @@
+.root{
+    -fx-font-size: 40px;
+}
+.details_header{
+    -fx-font-size: 50px;
+}
+
+#return_button{
+    -fx-font-size: 50px;
+    -fx-font-family: "Segoe UI";
+}
+.course {
+    -fx-font-size: 40px;
+}
+#courses_container{
+ -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+
+#main_wrapper{
+    -fx-border-color: black;
+}
+
+#name{
+    -fx-font-size: 70px;
+    -fx-font-family: Georgia;
+}
